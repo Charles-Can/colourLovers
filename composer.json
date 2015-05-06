@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "description": "A php library for colourlovers.com api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charles Candelaria",
+            "email": "charles@charlescandelaria.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "colourLovers\\" : "colourLovers"
+        }
+    }
+}
